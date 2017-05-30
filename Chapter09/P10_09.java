@@ -1,3 +1,6 @@
+/*
+八皇后问题
+*/
 public class P10_09 {
 	static int iCount = 0; // 全局变量
 	static int[] WeiZhi = new int[8]; // 全局数组
