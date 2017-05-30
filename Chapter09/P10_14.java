@@ -1,3 +1,6 @@
+/*
+爱因斯坦阶梯问题
+*/
 public class P10_14{
 	static int jieti(){
 		int i,res=0;
